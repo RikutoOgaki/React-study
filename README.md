@@ -15,7 +15,7 @@ React初心者に向けた勉強repository
   
     5.JavaScriptかTypeScriptか聞かれるので、任意で選択する
   
-    6.選択できダウンロードが完了したら、  cd study => npm install => npm run dev の順番でターミナルに入力する
+    6.選択できダウンロードが完了したら、  cd 自分がつけたフォルダー名 => npm install => npm run dev の順番でターミナルに入力する
   
     7.入力が完了すると、Localの横に http:localhost:XXXX が出てくるのでそこを command+クリックする
   
