@@ -5,20 +5,20 @@ React初心者に向けた勉強repository
 
 ・React+viteでの環境構築方法
 
-  1.vscodeでフォルダーを開いている状態でvscodeのメニューバーからターミナルを開く
+    1.vscodeでフォルダーを開いている状態でvscodeのメニューバーからターミナルを開く
   
-  2.ターミナルを開いたら、 npm create vite@latest  とターミナルで打つ
+    2.ターミナルを開いたら、 npm create vite@latest  とターミナルで打つ
   
-  3.React+viteの環境を入れるフォルダーの名前をどうするかを聞かれるので入力する（名前は何でもいい。）
+    3.React+viteの環境を入れるフォルダーの名前をどうするかを聞かれるので入力する（名前は何でもいい。）
   
-  4.フレームワーク（Reactのようなもの）をどうするか聞かれるので、Reactを選択する
+    4.フレームワーク（Reactのようなもの）をどうするか聞かれるので、Reactを選択する
   
-  5.JavaScriptかTypeScriptか聞かれるので、任意で選択する
+    5.JavaScriptかTypeScriptか聞かれるので、任意で選択する
   
-  6.選択できダウンロードが完了したら、  cd study => npm install => npm run dev の順番でターミナルに入力する
+    6.選択できダウンロードが完了したら、  cd study => npm install => npm run dev の順番でターミナルに入力する
   
-  7.入力が完了すると、Localの横に http:localhost:XXXX が出てくるのでそこを command+クリックする
+    7.入力が完了すると、Localの横に http:localhost:XXXX が出てくるのでそこを command+クリックする
   
-  8.デフォルトで入っているブラウザが表示される
+    8.デフォルトで入っているブラウザが表示される
   
-  9.環境構築完了
+    9.環境構築完了
