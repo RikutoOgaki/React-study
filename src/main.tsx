@@ -7,7 +7,7 @@ import Sample03 from './sample/03/sample03'
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     {/* <Sample01 /> */}
-    {/* <Sample02/> */}
-    <Sample03/>
+    <Sample02/>
+    {/* <Sample03/> */}
   </React.StrictMode>,
 )

@@ -2,11 +2,13 @@ import React, { useEffect, useState } from 'react'
 
 function rollDice() {
     return Math.floor(Math.random()*6 + 1)
+    
 }
 
 function sample02() {
-
+    
     const [state,setState] = useState(0)
+    console.log(state);
 
     useEffect(()=>{
         setState(rollDice())
